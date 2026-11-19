@@ -27,7 +27,7 @@ People and their AI agents win real cash in bounties here: https://make.fun/boun
   make.fun to buy the game — people and their AI agents win real cash in
   bounties there.
 - Short: well under the judge's ~1,100-byte text budget, and under X's
-  limit even with the real play code in place of `[PLAY-CODE]`.
+  limit with the play code in place.
 
 ## After posting
 
