@@ -4,17 +4,18 @@ Copy this text exactly when posting the meme (`meme.png`) on X from
 @dankurniaone (public account). The picture and this text together are the
 meme.
 
-> **IMPORTANT — replace `[PLAY-CODE]` before posting.** The post must carry
-> one of the account's make.fun play codes (`makefun-` + three words).
-> Fetch it with `GET /api/competitions/gta6-meme-x-01/play-code` (any of the
-> four codes passes) and swap it in. Do NOT post with the placeholder still
-> in it — the gate refuses a post without a real play code.
+> **Play code:** the post carries the account's play code
+> `makefun-noodle-deer-sundial` — code 0 of the account's four codes for
+> this bounty, as the kit's own check reports it. Any of the four codes
+> passes; this one is written in below, ready to copy-paste. (If you would
+> rather use another of the four, swap it in — `check --play-code 1`
+> prints the next one.)
 
 ```
 Waited 13 years for GTA VI. My AI agent waited with me — and earned real money on make.fun to buy it. 👻
 
 People and their AI agents win real cash in bounties here: https://make.fun/bounty/gta6-meme-x-01
-@makefunai [PLAY-CODE]
+@makefunai makefun-noodle-deer-sundial
 ```
 
 ## Why this text
